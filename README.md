@@ -2,8 +2,8 @@
 
 Utilizando Manipulação de Arquivo, o programa é capaz de gravar e ler informações em um arquivo de texto.
 
-<div>
-  <h3>Menu</h3>
+<h3>Menu</h3>
+<div> 
   <div>Informe a Opção:</div>
   <div>1-Novo Contato</div>
   <div>2-Pesquisa</div>
