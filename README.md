@@ -1,6 +1,6 @@
-# AgendaTelefonica.java
-Utilizando Manipulação de Arquivo, o programa é capaz de gravar informações em um .txt
-//<div>Com a possibilidade de receber um contato, sendo o mesmo nome + telefone.</div> 
+# Agenda Telefônica.java
+
+Utilizando Manipulação de Arquivo, o programa é capaz de gravar e ler informações em um arquivo de texto.
 
 <div>
   <h2>Menu</h2>
